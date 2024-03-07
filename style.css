@@ -8,12 +8,15 @@ article > * + * {
 
 h2 {
   --flow-space: 2rlh;
+  margin-block-start: var(--flow-space, 1em);
 }
 
 h3 {
   --flow-space: 1rlh;
+  margin-block-start: var(--flow-space, 1em);
 }
 
 h3 + * {
   --flow-space: 0.25rlh;
+  margin-block-start: var(--flow-space, 1em);
 }
