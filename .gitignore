@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
 /node_modules
+=======
+/node_modules
+.DS_Store
+>>>>>>> 87622084f70ac73d8bef0844982147b298840f1f

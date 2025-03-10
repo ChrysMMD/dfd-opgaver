@@ -1,11 +1,40 @@
+<<<<<<< HEAD
 # **Responsive Container**
+=======
+# Frontend Design - Opgaver
+
+> [!IMPORTANT]  
+> Følg instruktionerne, før du kloner.
+>>>>>>> 87622084f70ac73d8bef0844982147b298840f1f
 
 ## Formål
 
+<<<<<<< HEAD
 Formålet med denne opgave er at give dig en forståelse af, hvordan container queries kan bruges til at skabe fleksible og adaptive layouts, der tilpasser sig forskellige containerstørrelser. Du skal udforske, hvordan container queries kan ændre layoutet afhængigt af containerens bredde.
+=======
+<details>
+<summary>1. Fork alle branches (fold ud for at se hvordan)</summary>
+
+![Fork repo](./fork.png)
+
+</details>
+
+2. Klon det forkede repository
+
+<details>
+
+<summary>3. Forbind med Netlify og sørg for, at deployment sker fra alle branches (fold ud for at se mere)</summary>
+
+![Deplyoyment from Netlify](./netlify.png)
+
+</details>
+
+Du er nu klar til at gå i gang med opgaverne. Når du skal lave en øvelse, så vælg denne ved at skifte til den relevante branch (se liste over øvelser nedenfor).
+>>>>>>> 87622084f70ac73d8bef0844982147b298840f1f
 
 ## Ressourcer
 
+<<<<<<< HEAD
 - [Getting started with container queries](https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/)
 
 ## Opgavebeskrivelse
@@ -49,3 +78,40 @@ Link-struktur: **responsive-container--**[Dit unikke netlify link].netlify.app/
 ![c4](./assets/c4.png)
 
 ![c5](./assets/c5.png)
+=======
+### Selectors
+
+- No Classes ("no-classes")
+
+### Layout
+
+- Grid Breakout ("breakout")
+- Scrolling Container ("scrolling-container")
+- Subgrid Caption ("subgrid-caption")
+- Subgrid Card ("subgrid-card")
+- Responsive Container ("responsive-container")
+
+### UI Patterns
+
+- Flow Space-teknikken ("flow-space")
+- Styling af tekstindhold ("text-styling")
+- Card UI ("card-ui")
+- Animated Accordion w/ details/summary ("details-accordion")
+
+### Code in the Dark
+
+- Code in the Dark 1 ("citd-1")
+- Code in the Dark 2 ("citd-2")
+
+### Challenges
+
+- Animated Accordion w/ grid ("accordion")
+- Card Expand ("card-expand")
+- Sticky Labels ("sticky-labels")
+
+## Ressourcer
+
+- [CSS Reset](/resources/reset.css)
+- [CSS Patterns](/resources/patterns.md) (Opdateres løbende...)
+- [CSS Anti-Patterns](/resources/anti-patterns.md) (Opdateres løbende...)
+>>>>>>> 87622084f70ac73d8bef0844982147b298840f1f
